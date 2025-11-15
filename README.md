@@ -1,3 +1,3 @@
 # gitdemo
-This is my Fist Repository.
+This is my Fist git Repository.
 Author -PRIYANSHU SHRAMA
