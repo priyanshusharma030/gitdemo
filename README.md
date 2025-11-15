@@ -1,2 +1,3 @@
 # gitdemo
-this is first repository
+This is my Fist Repository.
+Author -PRIYANSHU SHRAMA
